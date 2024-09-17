@@ -1,0 +1,16 @@
+{
+    "banner":[
+        {
+            "imgUrl":"https://img.alicdn.com/imgextra/i1/O1CN01hvS0L41nct9cqAkQd_!!6000000005111-2-tps-702-216.png_790x10000Q75.jpg_.webp",
+            "title":"test1"
+        },
+        {
+            "imgUrl":"https://img.alicdn.com/imgextra/i2/O1CN01DQa7MF1DmfRX2AhXI_!!6000000000259-2-tps-702-216.png_790x10000Q75.jpg_.webp",
+            "title":"test2"
+        },
+        {
+            "imgUrl":"https://img.alicdn.com/imgextra/i4/O1CN012BvD6x29MKNhCNRzz_!!6000000008053-2-tps-702-216.png_790x10000Q75.jpg_.webp",
+            "title":"test3"
+        }
+    ]
+}
